@@ -11,5 +11,4 @@ Una API educativa desarrollada con JavaScript y tecnologías relacionadas (ES6+,
 
 - PORT: el puerto predeterminado es 3000
 - MONGODB_URI: la URI predeterminada de MongoDB
-- ADMIN_EMAIL: fazt@localhost.local
 - ADMIN_USERNAME: fazt
